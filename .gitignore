@@ -152,7 +152,7 @@ activemq-data/
 # Environments
 .env
 .envrc
-.venv
+it24001v2/eapp/.venv
 env/
 venv/
 ENV/
